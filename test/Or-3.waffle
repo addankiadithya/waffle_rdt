@@ -1,0 +1,1 @@
+Or {Not And {Not T,Or {Not F, Not F}}, Or {Not F, Not F}};

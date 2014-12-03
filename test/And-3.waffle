@@ -1,0 +1,1 @@
+And {Not And {Not T,F}, And {Not T, Not F}};
